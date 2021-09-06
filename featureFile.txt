@@ -1,1 +1,2 @@
 This feature is from branch 1.
+This feature is from Branch2.
